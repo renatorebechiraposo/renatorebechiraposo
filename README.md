@@ -34,7 +34,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/renatorebechiraposo" title="Perfil do Renato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatorebechiraposo&theme=dracula&show_icons=true" />
 </a>
 
