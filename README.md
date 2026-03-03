@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando atuando como Analista de Suporte, Modelador de Processos e desenvolvedor na Marelli.
+- 💼 Trabalhando atuando como Analista de processos e desenvolvedor na Marelli.
 - 🌱 Aprendendo mais sobre React(Next.js).
 - 💭 Sonho em me tornar desenvolvedor Full-Stack
 
