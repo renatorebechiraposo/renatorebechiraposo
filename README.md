@@ -34,10 +34,6 @@
 
 <br/>
 
-<a href="https://github.com/renatorebechiraposo" title="Perfil do Renato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatorebechiraposo&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Renato%20Rebechi%20Raposo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-rebechi-raposo/)](https://www.linkedin.com/in/renato-rebechi-raposo/)
